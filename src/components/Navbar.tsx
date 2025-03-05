@@ -80,7 +80,10 @@ export default function Navbar() {
                     <a className='dropdown-item' href='/bloghome2'>
                       การวินิจฉัยระบบด้วย PMQA
                     </a>
-                    <a className='dropdown-item' href='portfolio-4-col.html'>
+                    <a className='dropdown-item' href='/portfolio1'>
+                      การดำเนินการเปลี่ยนแปลงองค์การภาครัฐในยุคดิจิทัล
+                    </a>
+                    <a className='dropdown-item' href='/portfolio2'>
                       การแทรกแซงและการจัดกิจกรรมพัฒนาองค์การภาครัฐ
                     </a>
                     <a className='dropdown-item' href='portfolio-item.html'>
@@ -103,8 +106,8 @@ export default function Navbar() {
                     className='dropdown-menu dropdown-menu-right'
                     aria-labelledby='navbarDropdownBlog'
                   >
-                    <a className='dropdown-item' href='blog-home-1.html'>
-                      การวิเคราะห์ข้อมูลขนาดใหญ่ เพื่อการตัดสินใจเชิงนโยบาย
+                    <a className='dropdown-item' href='/ai.tsx'>
+                     AI การตรวจวินิจฉัยโรคมะเร็งปอด
                     </a>
                     <a className='dropdown-item' href='blog-home-2.html'>
                       Blog Home 2
